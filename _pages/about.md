@@ -19,5 +19,5 @@ My current research focuses on the design and analysis of algorithms for continu
 
 Contact
 ------
-"Office: Wynman N417"
+Office: Wynman N417 \\
 Email: nliu15 at jhu.edu
