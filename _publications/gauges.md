@@ -6,4 +6,4 @@ venue: 'Submitted'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 ---
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Arxiv](http://academicpages.github.io/files/paper1.pdf)
