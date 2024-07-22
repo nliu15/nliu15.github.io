@@ -22,7 +22,6 @@ Work experience
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
 
 {% for post in site.publications reversed %}
