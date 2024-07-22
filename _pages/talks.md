@@ -13,7 +13,7 @@ author_profile: true
 ## Working Papers
 
 * __Gauges and Accelerated Optimization over Smooth and/or Strongly Convex Sets__  \
-_Ning Liu, Benjamin Grimmer, Submitted, 2023, [arxiv](https://arxiv.org/abs/2303.05037)_
+_SIAM Conference on Optimization, Seattle, WA, 2023, _
 
 
 
