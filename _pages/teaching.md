@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 ## Courses TA'ed
 
-* Introduction to Convexity  <p align="right"> 2018 </p>
+* Introduction to Convexity  \hfill [2018]
 
 
 
