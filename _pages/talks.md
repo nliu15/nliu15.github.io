@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-## Working Papers
+## Past Talks
 
 * __Gauges and Accelerated Optimization over Smooth and/or Strongly Convex Sets__  \
 _SIAM Conference on Optimization, Seattle, WA, 2023_
