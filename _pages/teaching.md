@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 ## Courses TA'ed
 
-* __Introduction to Convexity__  <h3 align="right"> My latest Medium posts </h3>
+* Introduction to Convexity  <p align="right"> 2018 </p>
 
 
 
