@@ -10,11 +10,9 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-## Education
+## Working Papers
 
-B.S. in GitHub, GitHub University, 2012
-M.S. in Jekyll, GitHub University, 2014
-Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Gauges and Accelerated Optimization over Smooth and/or Strongly Convex Sets
 
 Work experience
 ======
