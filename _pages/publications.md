@@ -12,12 +12,9 @@ author_profile: true
 {% include base_path %}
 ## Working Papers
 
-* Gauges and Accelerated Optimization over Smooth and/or Strongly Convex Sets
+* __Gauges and Accelerated Optimization over Smooth and/or Strongly Convex Sets__  \
+_Ning Liu, Benjamin Grimmer, 2023, [arxiv](https://arxiv.org/abs/2303.05037)_
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
 
 
 {% for post in site.publications reversed %}
