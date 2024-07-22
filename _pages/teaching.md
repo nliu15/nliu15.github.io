@@ -12,6 +12,8 @@ author_profile: true
 {% include base_path %}
 ## Johns Hopkins University
 
+* Nonlinear Optimization II , Spring 2024 (Teaching Assistant)
+* Combinatorial Analysis , Fall 2023 (Teaching Assistant)
 * Nonlinear Optimization I , Fall 2021 (Teaching Assistant)
 * Nonlinear Optimization II , Spring 2021 (Teaching Assistant)
 * Combinatorial Optimization , Spring 2021 (Teaching Assistant)
