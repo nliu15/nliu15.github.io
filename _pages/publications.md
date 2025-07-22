@@ -12,13 +12,18 @@ author_profile: true
 {% include base_path %}
 ## Working Papers
 
+* __On the Design of Novel Two-Phase Radial Methods__  \
+_Ning Liu, Benjamin Grimmer, 2025_
+
 * __On the Structure of Gauges of Weakly Convex and Weakly Concave Sets__  \
 _Ning Liu, Benjamin Grimmer, 2024_
 
 * __Gauges and Accelerated Optimization over Smooth and/or Strongly Convex Sets__  \
-_Ning Liu, Benjamin Grimmer, Under Major Revision at Mathematical Programming, 2023, [Arxiv](https://arxiv.org/abs/2303.05037)_
+_Ning Liu, Benjamin Grimmer, Under Major Revision at Mathematical Programming, 2023_
 
-
+## PhD Thesis
+* __Gauges and Optimization over Structured Sets__  \
+_Ning Liu_
 
 
 {% for post in site.publications reversed %}
